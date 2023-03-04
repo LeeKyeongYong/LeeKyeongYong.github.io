@@ -34,4 +34,4 @@
 
 <br/>
 ## 출처 <br/>
-2.지도:&nbsp; https://proni.tistory.com/171<br/>
+2. 지도:&nbsp; https://proni.tistory.com/171<br/>
